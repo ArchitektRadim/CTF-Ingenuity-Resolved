@@ -1,4 +1,4 @@
-13839 nodes in total
+13851 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1241,6 +1241,9 @@ ftbutilities.claims.block.edit.computercraft.peripheral: OP
 ftbutilities.claims.block.edit.computercraft.turtle: OP
 ftbutilities.claims.block.edit.computercraft.turtle_advanced: OP
 ftbutilities.claims.block.edit.computercraft.turtle_expanded: OP
+ftbutilities.claims.block.edit.contenttweaker.machine_frame_hardened: OP
+ftbutilities.claims.block.edit.contenttweaker.machine_frame_reinforced: OP
+ftbutilities.claims.block.edit.contenttweaker.machine_frame_resonant: OP
 ftbutilities.claims.block.edit.draconicevolution.celestial_manipulator: OP
 ftbutilities.claims.block.edit.draconicevolution.chaos_crystal: OP
 ftbutilities.claims.block.edit.draconicevolution.chaos_shard_atmos: OP
@@ -4648,6 +4651,9 @@ ftbutilities.claims.block.interact.computercraft.peripheral: OP
 ftbutilities.claims.block.interact.computercraft.turtle: OP
 ftbutilities.claims.block.interact.computercraft.turtle_advanced: OP
 ftbutilities.claims.block.interact.computercraft.turtle_expanded: OP
+ftbutilities.claims.block.interact.contenttweaker.machine_frame_hardened: OP
+ftbutilities.claims.block.interact.contenttweaker.machine_frame_reinforced: OP
+ftbutilities.claims.block.interact.contenttweaker.machine_frame_resonant: OP
 ftbutilities.claims.block.interact.draconicevolution.celestial_manipulator: OP
 ftbutilities.claims.block.interact.draconicevolution.chaos_crystal: OP
 ftbutilities.claims.block.interact.draconicevolution.chaos_shard_atmos: OP
@@ -7226,6 +7232,7 @@ ftbutilities.claims.item.avaritia.resource: ALL
 ftbutilities.claims.item.avaritia.singularity: ALL
 ftbutilities.claims.item.avaritia.skullfire_sword: ALL
 ftbutilities.claims.item.avaritia.ultimate_stew: ALL
+ftbutilities.claims.item.base.wrench: ALL
 ftbutilities.claims.item.baubles.ring: ALL
 ftbutilities.claims.item.bewitchment.aconitum: ALL
 ftbutilities.claims.item.bewitchment.adders_fork: ALL
@@ -8572,6 +8579,11 @@ ftbutilities.claims.item.computercraft.treasure_disk: ALL
 ftbutilities.claims.item.computercraft.turtle: ALL
 ftbutilities.claims.item.computercraft.turtle_advanced: ALL
 ftbutilities.claims.item.computercraft.turtle_expanded: ALL
+ftbutilities.claims.item.contenttweaker.emerald_chipset: ALL
+ftbutilities.claims.item.contenttweaker.machine_frame_hardened: ALL
+ftbutilities.claims.item.contenttweaker.machine_frame_reinforced: ALL
+ftbutilities.claims.item.contenttweaker.machine_frame_resonant: ALL
+ftbutilities.claims.item.contenttweaker.redstone_comp_chipset: ALL
 ftbutilities.claims.item.draconicevolution.awakened_core: ALL
 ftbutilities.claims.item.draconicevolution.celestial_manipulator: ALL
 ftbutilities.claims.item.draconicevolution.chaos_crystal: ALL
@@ -13848,6 +13860,7 @@ command.appliedenergistics2.ae2
 command.aroma1997core.aroma1997
 command.aroma1997core.sleep
 command.aroma1997sdimension.dimensionalworld
+command.base.base.recipes.reload
 command.baubles.baubles
 command.bdlib.dumpregistry
 command.bdlib.oredistribution

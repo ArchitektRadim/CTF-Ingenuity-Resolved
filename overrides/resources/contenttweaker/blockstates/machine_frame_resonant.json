@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "side": "contenttweaker:blocks/machine_frame_resonant_side",
+      "end": "contenttweaker:blocks/machine_frame_resonant_top",
+      "particle": "contenttweaker:blocks/machine_frame_resonant_top"
+    },
+    "model": "cube_column",
+    "uvlock": true,
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

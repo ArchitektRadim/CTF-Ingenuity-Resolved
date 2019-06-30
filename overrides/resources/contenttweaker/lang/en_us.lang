@@ -1,0 +1,6 @@
+item.contenttweaker.redstone_comp_chipset.name=Redstone Comp Chipset
+item.contenttweaker.emerald_chipset.name=Emerald Chipset
+
+tile.contenttweaker.machine_frame_hardened.name=Machine Frame (Hardened)
+tile.contenttweaker.machine_frame_reinforced.name=Machine Frame (Reinforced)
+tile.contenttweaker.machine_frame_resonant.name=Machine Frame (Resonant)

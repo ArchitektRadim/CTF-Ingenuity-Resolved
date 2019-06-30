@@ -1,0 +1,17 @@
+#PARSE_ESCAPES
+
+#Ender IO Base
+enderio.power.symbol=FE
+enderio.power.format=%s FE
+enderio.power.format.of=%s / %s FE
+enderio.power.format.pertick=%s FE/t
+enderio.power.format.name=Forge Energy (%s)
+
+enderio.top.rf.value.post=\u0020FE/t
+
+enderio.top.suffix.rf=\u0020FE
+
+#Ender IO Machines
+enderio.gui.stirling_generator.remaining=Remaining {0,number,percent}|{1,choice,0#|0<{1}m }{2,number}s|{3,number,#,###} FE
+
+tile.block_wired_charger.tooltip.detailed.line1=Charges items with FE
