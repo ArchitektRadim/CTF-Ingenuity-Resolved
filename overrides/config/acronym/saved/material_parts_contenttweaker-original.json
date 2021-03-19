@@ -1,3 +1,15 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "fairy_block": 9,
+    "bedrockium_ingot": 0,
+    "draconium_molten": 4,
+    "unstable_molten": 3,
+    "fairy_molten": 10,
+    "fairy_ingot": 8,
+    "pokefennium_molten": 7,
+    "bedrockium_molten": 2,
+    "pokefennium_block": 6,
+    "bedrockium_block": 1,
+    "pokefennium_ingot": 5
+  }
 }

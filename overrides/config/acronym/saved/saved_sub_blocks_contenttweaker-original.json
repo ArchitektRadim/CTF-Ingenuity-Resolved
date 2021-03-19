@@ -1,3 +1,9 @@
 {
-  "savedSubBlockNames": {}
+  "savedSubBlockNames": {
+    "0": {
+      "0": "fairy_block",
+      "1": "bedrockium_block",
+      "2": "pokefennium_block"
+    }
+  }
 }

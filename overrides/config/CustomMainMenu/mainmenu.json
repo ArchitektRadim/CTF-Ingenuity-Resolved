@@ -11,7 +11,7 @@
             "alignment" : "center"
 		}
     },
-    
+
     "buttons":
     {
         "singleplayer":
@@ -23,12 +23,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
-        },        
+        },
         "multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -38,12 +38,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
-        },        
+        },
         "mods":
         {
             "text" : "Mods",
@@ -53,12 +53,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
-        },		
+        },
         "curse-page":
         {
             "text" : "",
@@ -71,10 +71,10 @@
 			"texture" : "mainmenu:curse.png",
 			"imageWidth": "40",
 			"imageHeight": "40",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/"
+				"link" : ""
             }
         },
         "discord":
@@ -86,12 +86,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
 				"link" : "https://discord.gg/mj35BSd"
             }
-        },		
+        },
         "github":
         {
             "text" : "GitHub",
@@ -101,12 +101,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
 				"link" : "https://github.com/ArchitektRadim/CTF-Ingenuity-Resolved"
             }
-        },		
+        },
 		"bugreport":
         {
             "text" : "Bug Report",
@@ -116,12 +116,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
 				"link" : "https://github.com/ArchitektRadim/CTF-Ingenuity-Resolved/issues"
             }
-        },		
+        },
         "serverpacks":
         {
             "text" : "Server Files",
@@ -131,12 +131,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/projects/ftb-infinity-evolved/files"
+				"link" : ""
             }
-        },		
+        },
         "options":
         {
             "text" : "menu.options",
@@ -146,12 +146,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
-        },        
+        },
         "quit":
         {
             "text" : "menu.quit",
@@ -161,7 +161,7 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:longbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "quit"
             }
@@ -178,12 +178,12 @@
 			"imageWidth": "40",
 			"imageHeight": "40",
 			"texture" : "mainmenu:language.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
-        },        
+        },
         "refresh":
         {
             "text" : "",
@@ -193,13 +193,13 @@
             "height" : 20,
 			"alignment" : "top_right",
             "texture" : "mainmenu:clearbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "refresh"
             }
-        }	
+        }
     },
-    
+
     "labels":
     {
         "mojang":
@@ -207,7 +207,7 @@
             "text" : "Copyright Mojang AB",
             "posX" : -65,
             "posY" : -8,
-			"fontSize" : .6,
+			"fontSize" : 0.6,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_right"
@@ -216,7 +216,7 @@
 			"text" : "Minecraft #mcversion#",
             "posX" : 3,
             "posY" : -15,
-			"fontSize" : .6,
+			"fontSize" : 0.6,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
@@ -226,22 +226,22 @@
 			"text" : "#modsloaded# Mods Loaded",
             "posX" : 3,
             "posY" : -8,
-			"fontSize" : .6,
+			"fontSize" : 0.6,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
 		},
 		"pack-name":{
-			"text" : "CTF Ingenuity Resolved 0.0.2",
+			"text" : "CTF Ingenuity Resolved 0.0.1",
             "posX" : 3,
             "posY" : -22,
-			"fontSize" : .6,
+			"fontSize" : 0.6,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
 		}
     },
-    
+
     "other":
     {
 		"background":

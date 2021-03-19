@@ -8,6 +8,9 @@ recipes.addShaped(<minecraft:cauldron>, [[<ore:plateIron>, null, <ore:plateIron>
 recipes.remove(<minecraft:web>);
 mods.thaumcraft.Crucible.removeRecipe(<minecraft:web>);
 
+#Frame Tires were not Removed
+<thermalexpansion:frame>.displayName = "Machine Frame (Basic)";
+
 #Floral Powders are not Dyes
 val dyeWhite = <ore:dyeWhite>;
 val dyeOrange = <ore:dyeOrange>;

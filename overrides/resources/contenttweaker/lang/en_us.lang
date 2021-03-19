@@ -1,6 +1,35 @@
 item.contenttweaker.redstone_comp_chipset.name=Redstone Comp Chipset
 item.contenttweaker.emerald_chipset.name=Emerald Chipset
+item.contenttweaker.redstone_comp_chipset.name=Redstone Comp Chipset
+item.contenttweaker.glue_ball.name=Glue Ball
+
+item.contenttweaker.defoliage_axe.name=Healing Axe
+item.contenttweaker.temporal_hoe.name=Reversing Hoe
+item.contenttweaker.chandelier.name=Chandelier
+
+item.contenttweaker.erosion_shovel.name=Erosion Shovel
+item.contenttweaker.etheric_sword.name=Etheric Sword
+item.contenttweaker.destruction_pickaxe.name=Destruction Pickaxe
+
+item.contenttweaker.ender_receiver.name=Ender Receiver
+item.contenttweaker.ender_transmitter.name=Ender Transmitter
 
 tile.contenttweaker.machine_frame_hardened.name=Machine Frame (Hardened)
-tile.contenttweaker.machine_frame_reinforced.name=Machine Frame (Reinforced)
-tile.contenttweaker.machine_frame_resonant.name=Machine Frame (Resonant)
+tile.contenttweaker.machine_frame_reinforced.name=§eMachine Frame (Reinforced)
+tile.contenttweaker.machine_frame_resonant.name=§bMachine Frame (Resonant)
+
+tile.contenttweaker.ender_infused_obsidian.name=Ender-infused Obsidian
+tile.contenttweaker.diamond_computational_matrix.name=Diamond-Etched Computational Matrix
+tile.contenttweaker.solid_ender_block.name=Block of Solid Ender
+tile.contenttweaker.pure_love.name=Pure Mana
+tile.contenttweaker.compressed_obsidian.name=Compressed Obsidian
+tile.contenttweaker.obsidian_tile.name=Obsidian Tile
+tile.contenttweaker.ender_core_block.name=Ender Core
+tile.contenttweaker.ender_tank_frame.name=Ender Tank Frame
+tile.contenttweaker.ender_tank_glass.name=Ender Tank Glass
+tile.contenttweaker.ender_tank_controller.name=Ender Tank Controller
+
+tile.contenttweaker.tesseract_frame_empty.name=Tesseract Frame (Empty)
+tile.contenttweaker.tesseract_frame_full.name=§bTesseract Frame (Full)
+
+fluid.glue=Molten Glue
